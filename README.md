@@ -1,7 +1,7 @@
 # Project Report: Interactive NLP and Image Classification Application
-### Overview
+## Overview
 This project demonstrates the integration of HuggingFace Transformers and Gradio.io to create interactive applications for machine translation (English - Japanese) and image classification.
-Components
+## Components
 ### Library Installation:
 -	`gradio` for web app interfaces.
 -	`accelerate` for enhanced computational performance. (used for the image classification operation)
